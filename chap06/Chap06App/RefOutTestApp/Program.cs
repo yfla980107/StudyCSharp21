@@ -15,7 +15,7 @@ namespace RefOutTestApp
             int rem = 0;
             Divide(a, b, ref val, ref rem);
 
-         Console.WriteLine($"{a}, {b} : a/b = {val}, a%b = {rem}");
+            Console.WriteLine($"{a}, {b} : a/b = {val}, a%b = {rem}");
 
             bool isSucceed = int.TryParse("1000", out int result);
             Console.WriteLine($"변환결과 {isSucceed}, result값 {result}");
