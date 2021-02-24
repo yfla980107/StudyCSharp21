@@ -44,8 +44,6 @@ namespace AccessModifierTestApp
             kitturami.SetTemp(300);
             kitturami.TurnOnTheBoiler();
             kitturami.SetTemp(59);
-            kitturami.temp
-
             if(kitturami.GetTemp() >= 59)
             {
                 kitturami.TurnOffTheBoiler();
