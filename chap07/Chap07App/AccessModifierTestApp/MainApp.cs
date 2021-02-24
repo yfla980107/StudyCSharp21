@@ -10,16 +10,12 @@ namespace AccessModifierTestApp
         internal int temp = 5; //물온도 // public, protected, private, internal(빈도가 별로)
 
         public void SetTemp(int temp) {
-            if(temp < 30 || temp > 60) {
+            if (temp < 30 || temp > 60) {
                 Console.WriteLine("물의 온도가 일정온도를 벗어났습니다. 59도로 맞춥니다.");
                 this.temp = 59;
-                return;
-            }
-            else
-            {
+            } else {
                 this.temp = temp;
             }
-            this.temp = temp;
         }
         public int GetTemp() {
             return this.temp;
@@ -41,7 +37,7 @@ namespace AccessModifierTestApp
             Boiler kitturami = new Boiler();
             var currTemp = kitturami.GetTemp();
             Console.WriteLine($"현재 온도는 {currTemp}℃ 입니다.");
-            kitturami.SetTemp(300);
+            kitturami.SetTemp(40);
             kitturami.TurnOnTheBoiler();
             kitturami.SetTemp(59);
             if(kitturami.GetTemp() >= 59)
