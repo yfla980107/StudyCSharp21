@@ -12,7 +12,7 @@ namespace JumpTestApp
         {
             for (int i = 0; i < 10; i++)
             {
-                if (i == 3) break; // continue;
+                if (i == 3) break; //continue;
 
                 Console.WriteLine(i);
             }
