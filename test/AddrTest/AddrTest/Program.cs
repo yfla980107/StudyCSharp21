@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AddrTest
 {
-    public class AddressAll
+    class AddressAll
     {
         public string name;
         public string phone;
@@ -34,22 +34,21 @@ namespace AddrTest
         {
             public static List<AddressAll> Mylist = new List<AddressAll>();
 
-            public static string selectMenu()
+            public static void Startmenu()
             {
-                string s;
-                Console.WriteLine("---------------");
-                Console.WriteLine("0. 주소 입력");
-                Console.WriteLine("1. 검색");
-                Console.WriteLine("2. 수정");
-                Console.WriteLine("3. 삭제");
-                Console.WriteLine("4 전체 출력");
-                Console.WriteLine("5. 프로그램 종료");
-                Console.WriteLine("---------------");
-                s = Console.ReadLine();
-                return s;
-
+                
+                    Console.WriteLine("---------------");
+                    Console.WriteLine("0. 주소 입력");
+                    Console.WriteLine("1. 검색");
+                    Console.WriteLine("2. 수정");
+                    Console.WriteLine("3. 삭제");
+                    Console.WriteLine("4. 전체 출력");
+                    Console.WriteLine("5. 프로그램 종료");
+                    Console.WriteLine("---------------");
+                
             }
-            static public void insert()
+
+            public static void Data_insert() //데이터 입력
             {
                 string name, phone, addr;
                 Console.Write("이름 입력: ");
@@ -58,52 +57,38 @@ namespace AddrTest
                 phone = Console.ReadLine();
                 Console.Write("주소 입력: ");
                 addr = Console.ReadLine();
-                AddressAll person = new AddressAll();
-                Mylist.Add(person);
+
+                AddressAll addressall = new AddressAll();
+                addressall.name = name;
+                addressall.phone = phone;
+                addressall.addr = addr;
             }
 
-            static public void search()
+            public static void Data_search() // 데이터 검색
             {
                 string name;
                 Console.WriteLine("이름 입력: ");
                 name = Console.ReadLine();
             }
 
-            static void Delete()
+            static void Data_Delete() // 데이터 삭제
             {
-                string del;
-
-                del = Console.ReadLine();
-
-                for (int i = 0; i < Mylist.Count; ++i)
-                {
-                    if (del == Mylist[i].Name)
-                    {
-                        Mylist.Remove[i];
-                    }
                 }
             }
-            static void View()
+            static void View() // 모든 데이터 
             {
-                for(int i=0; i < Mylist.Count; ++i)
-                {
-                    Console.WriteLine($"------------0---------\n" +\ $"이름:{Mylist[i].name()}, 전화번호:{MyList[i].phone()}, 주소:{MyList[i].addr()}}");
-                }
+
             }
-
-
-
 
             static void Main(string[] args)
             {
-                string key;
 
-                while ((key = selectMenu()) != "5") break;
+                while (true)
                 {
                     switch (key)
                     {
                         case "0":
-                            insert();
+                        Data_insert();
                             break;
 
                         case "1":
@@ -135,5 +120,5 @@ namespace AddrTest
             }
         }
     }
-}
+
 
