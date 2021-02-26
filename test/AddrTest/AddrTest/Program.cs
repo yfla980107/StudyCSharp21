@@ -16,7 +16,6 @@ namespace AddrTest
         {
             get { return name; }
             set { this.name = value; }
-
         }
 
         public string Phone
@@ -70,18 +69,25 @@ namespace AddrTest
                 name = Console.ReadLine();
             }
 
-            static void delete()
+            static void Delete()
             {
                 string del;
 
                 del = Console.ReadLine();
 
-                for (int i = 0; i< Mylist.Count; ++i)
+                for (int i = 0; i < Mylist.Count; ++i)
                 {
-                    if (del == Mylist[i].Name())
+                    if (del == Mylist[i].Name)
                     {
-                        Mylist.RemoveAt[i];
+                        Mylist.Remove[i];
                     }
+                }
+            }
+            static void View()
+            {
+                for(int i=0; i < Mylist.Count; ++i)
+                {
+                    Console.WriteLine($"------------0---------\n" +\ $"이름:{Mylist[i].name()}, 전화번호:{MyList[i].phone()}, 주소:{MyList[i].addr()}}");
                 }
             }
 
