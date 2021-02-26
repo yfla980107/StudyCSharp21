@@ -6,37 +6,128 @@ using System.Threading.Tasks;
 
 namespace AddrTest
 {
-    class Address1
+    public class AddressAll
     {
-        public string name, phone, addr;
-        public void 입력()
+        public string name;
+        public string phone;
+        public string addr;
+
+        public string Name
         {
-            this.name = Console.ReadLine();
-            this.phone = Console.ReadLine();
-            this.addr = Console.ReadLine();
-            
-            Console.WriteLine($"-------{}-------"
-                              , "이름 : {this.name}"
-                              , "전화 : {this.phone}"
-                              , "주소 : {this.addr}");
+            get { return name; }
+            set { this.name = value; }
+
         }
-    }
-    class Program
+
+        public string Phone
         {
-            static void Main(string[] args)
+            get { return phone; }
+            set { this.phone = value; }
+        }
+
+        public string Address
+        {
+            get { return addr; }
+            set { this.addr = value; }
+        }
+
+        class Program
+        {
+            public static List<AddressAll> Mylist = new List<AddressAll>();
+
+            public static string selectMenu()
             {
+                string s;
+                Console.WriteLine("---------------");
+                Console.WriteLine("0. 주소 입력");
+                Console.WriteLine("1. 검색");
+                Console.WriteLine("2. 수정");
+                Console.WriteLine("3. 삭제");
+                Console.WriteLine("4 전체 출력");
+                Console.WriteLine("5. 프로그램 종료");
+                Console.WriteLine("---------------");
+                s = Console.ReadLine();
+                return s;
 
-            Address1 address = new Address1();
-
-              Console.WriteLine("-------------"
-                                 , "0. 주소 입력"
-                                 , "1. 주소 검색"
-                                 , "2. 주소 수정"
-                                 , "3. 주소 삭제"
-                                 , "4. 주소 전체 출력"
-                                 , "5. 프로그램 종료");
+            }
+            static public void insert()
+            {
+                string name, phone, addr;
+                Console.Write("이름 입력: ");
+                name = Console.ReadLine();
+                Console.Write("전화 입력: ");
+                phone = Console.ReadLine();
+                Console.Write("주소 입력: ");
+                addr = Console.ReadLine();
+                AddressAll person = new AddressAll();
+                Mylist.Add(person);
             }
 
+            static public void search()
+            {
+                string name;
+                Console.WriteLine("이름 입력: ");
+                name = Console.ReadLine();
+            }
+
+            static void delete()
+            {
+                string del;
+
+                del = Console.ReadLine();
+
+                for (int i = 0; i< Mylist.Count; ++i)
+                {
+                    if (del == Mylist[i].Name())
+                    {
+                        Mylist.RemoveAt[i];
+                    }
+                }
+            }
+
+
+
+
+            static void Main(string[] args)
+            {
+                string key;
+
+                while ((key = selectMenu()) != "5") break;
+                {
+                    switch (key)
+                    {
+                        case "0":
+                            insert();
+                            break;
+
+                        case "1":
+                            search();
+                            break;
+
+                        case "2":
+
+                            break;
+
+                        case "3":
+
+                            break;
+
+                        case "4":
+
+                            break;
+                        case "5":
+                            Console.WriteLine("프로그램종료합니다.");
+                            break;
+                    }
+
+
+
+
+
+
+                }
+            }
+        }
     }
-    
 }
+
