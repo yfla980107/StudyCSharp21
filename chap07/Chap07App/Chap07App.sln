@@ -19,11 +19,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverrideTestApp", "Override
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassApp", "PartialClassApp\PartialClassApp.csproj", "{A403D302-FF0F-4754-90A6-17D2F643D636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewInheritTestApp", "NewInheritTestApp\NewInheritTestApp.csproj", "{52E4F86C-F478-4EC7-93CC-10126FB77407}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewInheritTestApp", "NewInheritTestApp\NewInheritTestApp.csproj", "{52E4F86C-F478-4EC7-93CC-10126FB77407}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTypeCastApp", "NewTypeCastApp\NewTypeCastApp.csproj", "{C2EEE7C4-94BF-47AC-A093-702B1B103DEA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewOverrideTestApp", "NewOverrideTestApp\NewOverrideTestApp.csproj", "{CCA1700F-6DB5-4970-BDB9-4A2310C4A7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleTestApp", "TupleTestApp\TupleTestApp.csproj", "{D035A1CF-4E24-4988-9411-24C591AB3089}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{CCA1700F-6DB5-4970-BDB9-4A2310C4A7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCA1700F-6DB5-4970-BDB9-4A2310C4A7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCA1700F-6DB5-4970-BDB9-4A2310C4A7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D035A1CF-4E24-4988-9411-24C591AB3089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D035A1CF-4E24-4988-9411-24C591AB3089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D035A1CF-4E24-4988-9411-24C591AB3089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D035A1CF-4E24-4988-9411-24C591AB3089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
