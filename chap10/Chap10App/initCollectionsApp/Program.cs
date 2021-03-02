@@ -14,7 +14,7 @@ namespace InitCollectionsApp
 
             Console.WriteLine("배열을 통한 초기화");
             int[] arr = { 123, 456, 789 };
-            ArrayList list = new ArrayList(arr);
+            ArrayList list = new ArrayList(arr); 
             foreach (var item in list)
             {
                 Console.WriteLine($"Array : {item}");
