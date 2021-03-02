@@ -31,7 +31,7 @@ namespace InitCollectionsApp
             ArrayList list2 = new ArrayList() { 10, 20, 30, 40 };
             foreach (var item in list2)
             {
-                Console.WriteLine($"ArrayList2 : {item}"); 
+                Console.WriteLine($"ArrayList2 : {item}");
             }
 
         }
