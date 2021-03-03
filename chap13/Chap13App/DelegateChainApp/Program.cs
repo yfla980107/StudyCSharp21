@@ -12,10 +12,9 @@ namespace DelegateChainApp
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Calculating");
-
             //대리자 사용시
-            AllCalc allCalc = Plus;
+            Console.WriteLine("Calculating");
+            AllCalc allCalc = new AllCalc(Plus);
             allCalc += Minus;
             allCalc += Multiple;
             allCalc += Divide;
