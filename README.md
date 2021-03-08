@@ -27,27 +27,27 @@ PKNU C# 학습 리포지터리
 - [주소수정](#주소-수정)
 - [주소삭제](#주소-삭제)
 - [주소전체 출력](#주소전체-출력)
----
+___
 메인화면<br>
-[mainapp](https://user-images.githubusercontent.com/78572509/110302407-8d2f1c00-803c-11eb-99a1-186fca3757f6.png)
----
+![mainapp](https://user-images.githubusercontent.com/78572509/110302407-8d2f1c00-803c-11eb-99a1-186fca3757f6.png)
+___
 주소 입력<br>
 ![addressapp_insert1](https://user-images.githubusercontent.com/78572509/110302169-493c1700-803c-11eb-9f9d-7703c9b7b5ae.png)
 ![addressapp_insert2](https://user-images.githubusercontent.com/78572509/110302170-493c1700-803c-11eb-85f8-4a54f1bcb8f1.png)
 ![addressapp_insert3](https://user-images.githubusercontent.com/78572509/110302172-49d4ad80-803c-11eb-8738-b8da7419c545.png)
 - 주소록에 홍길동, 홍길순, 이순신을 차례대로 입력하여 주소록 데이터에 저장해준다</p>
----
+___
 주소 검색<br>
-[address_search] (https://user-images.githubusercontent.com/78572509/110309031-33325480-8044-11eb-8008-a4dd1bfe60ab.png)
----
+![address_search] (https://user-images.githubusercontent.com/78572509/110309031-33325480-8044-11eb-8008-a4dd1bfe60ab.png)
+___
 주소 수정<br>
-[address_update](https://user-images.githubusercontent.com/78572509/110302167-48a38080-803c-11eb-9ad5-d4acf077e897.png)
----
+![address_update](https://user-images.githubusercontent.com/78572509/110302167-48a38080-803c-11eb-9ad5-d4acf077e897.png)
+___
 주소 삭제<br>
-[address_delete](https://user-images.githubusercontent.com/78572509/110302165-48a38080-803c-11eb-9a31-904fec41a314.png)
----
+![address_delete](https://user-images.githubusercontent.com/78572509/110302165-48a38080-803c-11eb-9a31-904fec41a314.png)
+___
 주소전체 출력<br>
-[address_allsearch](https://user-images.githubusercontent.com/78572509/110302161-47725380-803c-11eb-944a-6a7b5313534b.png)
+![address_allsearch](https://user-images.githubusercontent.com/78572509/110302161-47725380-803c-11eb-944a-6a7b5313534b.png)
 
 
 
