@@ -44,11 +44,11 @@ ___
 ___
 #### 주소 수정
 ![address_update](https://user-images.githubusercontent.com/78572509/110302167-48a38080-803c-11eb-9ad5-d4acf077e897.png)
-- 홍길순의 이름, 전화, 주소 수정
+- 홍길순의 이름, 전화, 주소 차례대로 수정
 ___
 #### 주소 삭제
 ![address_delete](https://user-images.githubusercontent.com/78572509/110302165-48a38080-803c-11eb-9a31-904fec41a314.png)
-- 홍길순 주소록에서 삭제
+- 홍길순 -> 홍순희 주소록에서 삭제
 ___
 #### 주소전체 출력
 ![address_allsearch](https://user-images.githubusercontent.com/78572509/110302161-47725380-803c-11eb-944a-6a7b5313534b.png)
