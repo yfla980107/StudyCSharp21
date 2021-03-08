@@ -18,7 +18,7 @@ PKNU C# 학습 리포지터리
 - [chap20 WinFrom 사용자 인터페이스](https://github.com/yfla980107/StudyCSharp21/tree/main/chap20/Chap20App)
 - [Mini Project : AddressBookApp](#mini-project--addressbookapp)
 
-[Mini ProJect : AddressBookApp]mini project  addressbookapp
+mini project  addressbookapp
 
 [1. 주소 입력]
 2. [주소 검색]#2.-주소-검색
