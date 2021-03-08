@@ -38,7 +38,7 @@ ___
 - 주소록에 홍길동, 홍길순, 이순신을 차례대로 입력하여 주소록 데이터에 저장해준다</p>
 ___
 주소 검색<br>
-![address_search] (https://user-images.githubusercontent.com/78572509/110309031-33325480-8044-11eb-8008-a4dd1bfe60ab.png)
+![address_search](https://user-images.githubusercontent.com/78572509/110309031-33325480-8044-11eb-8008-a4dd1bfe60ab.png)
 ___
 주소 수정<br>
 ![address_update](https://user-images.githubusercontent.com/78572509/110302167-48a38080-803c-11eb-9ad5-d4acf077e897.png)
