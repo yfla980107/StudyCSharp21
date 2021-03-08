@@ -2,6 +2,7 @@
 PKNU C# 학습 리포지터리
 ---
 ## 주소록 프로그램
+- [메인화면](#메인-화면)
 - [주소입력](#주소-입력)
 - 주소검색
 - 주소수정
@@ -9,10 +10,13 @@ PKNU C# 학습 리포지터리
 - 주소전체 출력
 - 프로그램 종료
 
-### 주소 입력
----
+### 메인화면
 ![main](https://user-images.githubusercontent.com/78572509/110292934-48ea4e80-8031-11eb-95da-ca4fca09be52.PNG)
+---
+### 주소 입력
 
+---
+### 주소 검색
 
 
 - [chap03 데이터 보관하기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap03/Chap03App)
