@@ -27,7 +27,6 @@ PKNU C# 학습 리포지터리
 - [주소수정](#주소-수정)
 - [주소삭제](#주소-삭제)
 - [주소전체 출력](#주소전체-출력)
-- 프로그램 종료
 ---
 메인화면<br>
 ![mainapp](https://user-images.githubusercontent.com/78572509/110302407-8d2f1c00-803c-11eb-99a1-186fca3757f6.png)
