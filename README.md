@@ -1,6 +1,5 @@
 # StudyCSharp
-
-###PKNU C# 학습 리포지터리
+PKNU C# 학습 리포지터리
 ---
 - chap03 데이터 보관하기
 - chap04 데이터를 가공하는 연산자
