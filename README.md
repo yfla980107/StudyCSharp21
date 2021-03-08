@@ -1,5 +1,4 @@
-# StudyCSharp
-PKNU C# 학습 리포지터리
+# StudyCSharp PKNU C# 학습 리포지터리
 ---
 ## 주소록 프로그램
 - [메인화면](#메인-화면)
@@ -9,7 +8,7 @@ PKNU C# 학습 리포지터리
 - [주소삭제](#주소-삭제)
 - [주소전체 출력](#주소전체-출력)
 - 프로그램 종료
-
+---
 ### 메인화면
 ![mainapp](https://user-images.githubusercontent.com/78572509/110302407-8d2f1c00-803c-11eb-99a1-186fca3757f6.png)
 ---
@@ -17,7 +16,7 @@ PKNU C# 학습 리포지터리
 ![addressapp_insert1](https://user-images.githubusercontent.com/78572509/110302169-493c1700-803c-11eb-9f9d-7703c9b7b5ae.png)
 ![addressapp_insert2](https://user-images.githubusercontent.com/78572509/110302170-493c1700-803c-11eb-85f8-4a54f1bcb8f1.png)
 ![addressapp_insert3](https://user-images.githubusercontent.com/78572509/110302172-49d4ad80-803c-11eb-8738-b8da7419c545.png)
-- 주소록에 홍길동, 홍길순, 이순신을 차례대로 입력하여 주소록 데이터에 저장해준다
+<p>주소록에 홍길동, 홍길순, 이순신을 차례대로 입력하여 주소록 데이터에 저장해준다</p>
 ---
 ### 주소 검색
 ![address_search](https://user-images.githubusercontent.com/78572509/110309031-33325480-8044-11eb-8008-a4dd1bfe60ab.png)
