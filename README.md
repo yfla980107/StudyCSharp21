@@ -9,9 +9,9 @@ PKNU C# 학습 리포지터리
 - 주소전체 출력
 - 프로그램 종료
 
-## 주소 입력
-
-
+### 주소 입력
+---
+![address_insert](./img/screenshot.png)
 
 
 - [chap03 데이터 보관하기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap03/Chap03App)
