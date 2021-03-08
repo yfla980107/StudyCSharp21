@@ -16,6 +16,13 @@ PKNU C# 학습 리포지터리
 - [chap18 파일 다루기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap18/Chap18App)
 - [chap19 스레드와 태스크](https://github.com/yfla980107/StudyCSharp21/tree/main/chap19/Chap19App)
 - [chap20 WinFrom 사용자 인터페이스](https://github.com/yfla980107/StudyCSharp21/tree/main/chap20/Chap20App)
-- [Mini Project : AddressBookApp](#Mini-Project-:-AddressBookApp)
+- [Mini Project : AddressBookApp](#mini-project-:-addressbookapp)
 
-## Mini Project : AddressBookApp
+## Mini Project : addressbookapp
+
+[1. 주소 입력]
+2. [주소 검색]#2.-주소-검색
+3. [주소 수정]#3.-주소-수정
+4. [주소 삭제]#2.-주소-삭제
+5. [주소전체 출력]#5.-주소-전체-출력
+6. [프로그램 종료]#6.-프로그램-종료
