@@ -19,13 +19,13 @@ PKNU C# 학습 리포지터리
 - [WinFrom 사용자 인터페이스](https://github.com/yfla980107/StudyCSharp21/tree/main/chap20/Chap20App)
 ---
 ### 주소록 프로그램
-- [주소록 프로그램 코드](https://github.com/yfla980107/StudyCSharp21/tree/main/chap99/AddressBookApp)
 - [메인화면](#메인-화면)
 - [주소입력](#주소-입력)
 - [주소검색](#주소-검색)
 - [주소수정](#주소-수정)
 - [주소삭제](#주소-삭제)
 - [주소전체 출력](#주소전체-출력)
+-> [주소록 프로그램 코드](https://github.com/yfla980107/StudyCSharp21/tree/main/chap99/AddressBookApp)
 ___
 #### 메인 화면
 ![mainapp](https://user-images.githubusercontent.com/78572509/110302407-8d2f1c00-803c-11eb-99a1-186fca3757f6.png)
