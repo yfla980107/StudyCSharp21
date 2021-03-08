@@ -16,7 +16,7 @@ PKNU C# 학습 리포지터리
 - [chap18 파일 다루기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap18/Chap18App)
 - [chap19 스레드와 태스크](https://github.com/yfla980107/StudyCSharp21/tree/main/chap19/Chap19App)
 - [chap20 WinFrom 사용자 인터페이스](https://github.com/yfla980107/StudyCSharp21/tree/main/chap20/Chap20App)
-- [Mini Project : AddressBookApp](#mini-project-:-addressbookapp)
+- [Mini Project : AddressbookApp](#mini-project-:-addressbookapp)
 
 ##mini project : addressbookapp
 
