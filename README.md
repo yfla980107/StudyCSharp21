@@ -1,4 +1,5 @@
-# StudyCSharp PKNU C# 학습 리포지터리
+# StudyCSharp
+PKNU C# 학습 리포지터리
 ---
 ## 주소록 프로그램
 - [메인화면](#메인-화면)
