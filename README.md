@@ -11,7 +11,7 @@ PKNU C# 학습 리포지터리
 - 프로그램 종료
 
 ### 메인화면
-![main](https://user-images.githubusercontent.com/78572509/110292934-48ea4e80-8031-11eb-95da-ca4fca09be52.PNG)
+![main](https://user-images.githubusercontent.com/78572509/110293529-083f0500-8032-11eb-91d5-1277ba11c786.png)
 ---
 ### 주소 입력
 ![addressapp_insert1](https://user-images.githubusercontent.com/78572509/110293248-aed6d600-8031-11eb-96e5-3eaf4de21d2d.PNG)
