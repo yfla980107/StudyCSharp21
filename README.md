@@ -8,17 +8,17 @@ ___
 - [데이터를 가공하는 연산자](https://github.com/yfla980107/StudyCSharp21/tree/main/chap04/Chap04App)
 - [코드의 흐름 제어하기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap05/Chap05App)
 - [메소드로 코드 간추리기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap06/Chap06App)
-객체지향 프로그래밍 이해하기
+<P>객체지향 프로그래밍 이해하기
 - [클래스](https://github.com/yfla980107/StudyCSharp21/tree/main/chap07/Chap07App)
 - [인터페이스와 추상 클래스](https://github.com/yfla980107/StudyCSharp21/tree/main/chap08/Chap08App)
 - [프로퍼티](https://github.com/yfla980107/StudyCSharp21/tree/main/chap09/Chap09App)
 - [배열과 컬렉션, 인덱서](https://github.com/yfla980107/StudyCSharp21/tree/main/chap10/Chap10App)
 - [일반화 프로그래밍](https://github.com/yfla980107/StudyCSharp21/tree/main/chap11/Chap11App)
 - [예외 처리하기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap12/Chap12App)
-고급문법 익히기
+<P>고급문법 익히기
 - [대리자와 이벤트](https://github.com/yfla980107/StudyCSharp21/tree/main/chap13/Chap13App)
 - [LINQ](https://github.com/yfla980107/StudyCSharp21/tree/main/chap15/Chap15App)
-.NET 프레임워크를 이용한 프로그래밍
+<P>.NET 프레임워크를 이용한 프로그래밍
 - [파일 다루기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap18/Chap18App)
 - [스레드와 태스크](https://github.com/yfla980107/StudyCSharp21/tree/main/chap19/Chap19App)
 - [WinFrom 사용자 인터페이스](https://github.com/yfla980107/StudyCSharp21/tree/main/chap20/Chap20App)
