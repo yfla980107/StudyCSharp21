@@ -2,7 +2,7 @@
 
 PKNU C# 학습 리포지터리
 ___
-#### 목차
+### C#
 - [데이터 보관하기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap03/Chap03App)
 - [데이터를 가공하는 연산자](https://github.com/yfla980107/StudyCSharp21/tree/main/chap04/Chap04App)
 - [코드의 흐름 제어하기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap05/Chap05App)
@@ -19,7 +19,8 @@ ___
 - [스레드와 태스크](https://github.com/yfla980107/StudyCSharp21/tree/main/chap19/Chap19App)
 - [WinFrom 사용자 인터페이스](https://github.com/yfla980107/StudyCSharp21/tree/main/chap20/Chap20App)
 ---
-#### 주소록 프로그램
+### 주소록 프로그램
+콘솔창에 주소록을 저장, 검색, 수정, 삭제, 전체출력 하는 프로그램
 1. [메인화면](#메인-화면)
 2. [주소입력](#주소-입력)
 3. [주소검색](#주소-검색)
