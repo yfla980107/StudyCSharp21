@@ -21,13 +21,15 @@ ___
 ---
 ### 주소록 프로그램
 콘솔창에 주소록을 저장, 검색, 수정, 삭제, 전체출력 하는 프로그램
+- [코드보기](https://github.com/yfla980107/StudyCSharp21/tree/main/chap99/AddressBookApp)
+
 1. [메인화면](#메인-화면)
 2. [주소입력](#주소-입력)
 3. [주소검색](#주소-검색)
 4. [주소수정](#주소-수정)
 5. [주소삭제](#주소-삭제)
 6. [주소전체 출력](#주소전체-출력)
-7. [주소록 프로그램 코드](https://github.com/yfla980107/StudyCSharp21/tree/main/chap99/AddressBookApp)
+
 ___
 #### 메인 화면
 ![mainapp](https://user-images.githubusercontent.com/78572509/110302407-8d2f1c00-803c-11eb-99a1-186fca3757f6.png)
